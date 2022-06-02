@@ -1,4 +1,14 @@
 The datasets can be download from following links:
-CH:  https://pan.baidu.com/s/1eQG2RA0e4h7hlkJfpYg1Gg, code:oxzg  
-CHR: https://pan.baidu.com/s/1sj482HLEe9ZV6Ff08q-2fw, code:z9a9
+CH dataset:  
+cols: ['净利润(元)', '净利润同比增长率', '扣非净利润(元)', '扣非净利润同比增长率', '基本每股收益(元)', '每股净资产(元)', '每股资本公积金(元)', '每股未分配利润(元)', '每股经营现金流(元)', '销售净利率', '销售毛利率', '净资产收益率', '净资产收益率-摊薄', '营业周期(天)', '存货周转率(次)', '存货周转天数(天)', '应收账款周转天数(天)', '流动比率', '速动比率', '保守速动比率', '产权比率', '资产负债比率'，'sector','label']
+total number of samples is 3493,
+ the number of training samples is 2795 
+ the number of test samples is 698
+https://pan.baidu.com/s/1eQG2RA0e4h7hlkJfpYg1Gg, code:oxzg  
+
+
+
+
+CHR: 
+https://pan.baidu.com/s/1sj482HLEe9ZV6Ff08q-2fw, code:z9a9
 US:  https://pan.baidu.com/s/14pxi2wHh7EDRN5DeYrAbCA, code:h6mp
